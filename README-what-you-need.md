@@ -6,6 +6,8 @@ PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A
 
 350mAh 3.7v Lithium Ion Polymer Battery
 
+Panel Mount Extension USB Cable Micro B Male to Micro B Female - since the cable is too thick, I cut and stripped all the wire except for power. Since its only job is to recharge the battery, no need for a data cable.
+
 Code used was example code provided by Adafruit with slight modifications by me. 
 
 Make sure to set up an Adafruit IO account and have your "feeds" named "rx". If you want something different, make sure to match what is in the code or it won't connect.
