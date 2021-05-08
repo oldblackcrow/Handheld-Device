@@ -14,4 +14,4 @@ Make sure to set up an Adafruit IO account and have your "feeds" named "rx". If 
 
 Finally, you will need the Adafruit Bluefruit App on your phone to connect to the ItsyBitsy and AdafruitIO.
 
-Ultimately, I would love to connect the ItsyBitsy directly to Bluetooth on the PyPortal, but currently, the PyPortal cannot as a Central device. However, the Clue can and I did test the connectivity with no issues, however, I have not (and probably will not) integrate that code into the Clue due to my utter lack of knowledge of Arduino IDE. But if you feel so inclined, please post the code or a link to the code here.
+Ultimately, I would love to connect the ItsyBitsy directly to Bluetooth on the PyPortal, but currently, the PyPortal cannot act as a Central device. However, the Clue can and I did test the connectivity with no issues, however, I have not (and probably will not) integrate that code into the Clue due to my utter lack of knowledge of Arduino IDE. But if you feel so inclined, please post the code or a link to the code here.
