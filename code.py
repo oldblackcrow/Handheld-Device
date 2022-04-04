@@ -23,5 +23,7 @@ while True:
         pass
     while ble.connected:
         time.sleep(5)
-        uart.write("eCO2 = %d ppm \t TVOC = %d ppb" % (sgp30.eCO2, sgp30.TVOC))
-        print("**** Baseline values: eCO2 = 0x%x, TVOC = 0x%x" % (sgp30.baseline_eCO2, sgp30.baseline_TVOC))
+        uart.write("eCO2 = %d ppm \t" % (sgp30.eCO2))
+        uart.write("TVOC = %d ppb" % (sgp30.TVOC))
+        ("**** Baseline values: eCO2 = 0x%x, TVOC = 0x%x" % (sgp30.baseline_eCO2, sgp30.baseline_TVOC))
+
