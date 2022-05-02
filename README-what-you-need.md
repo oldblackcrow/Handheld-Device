@@ -1,5 +1,7 @@
 Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE
 
+There two versions of the software. The original is if you don't want to use the new Clue sketch. The "updated" version is required for the new Clue sketch.
+
 Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2 - Keep in mind that the version I used did not have a STEMMA QT connector. I soldered the wires directly. I don't know if there is enough room in the Diamnond Select Handheld case to accomodate. However, you could 3D print a bigger case if you wish.
 
 PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A
