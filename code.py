@@ -1,3 +1,4 @@
+# This version uses AdafruitIO with the BlueFruit app on your phone.
 import time
 import board
 import busio
