@@ -1,3 +1,4 @@
+# This version communicates directly with Bluetooth Central, in this case, the Adafruit Clue.
 import time
 import board
 import busio
