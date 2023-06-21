@@ -4,7 +4,7 @@ There two versions of the software. The original (code.py) is if you want to use
 Hardware:
 Adafruit ItsyBitsy nRF52840 Express - Bluetooth LE
 
-Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2. The SGP30 I used did not have a STEMMA QT connector. I soldered the wires directly. There is barely enough room in the Diamnond Select Handheld case to accomodate a connector, so you want to use the Adafruit SGP30 with the STEMMA QT connector, you need to 3D print a slightly bigger case.
+Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2. The SGP30 I used did not have a STEMMA QT connector. I soldered the wires directly. There is barely enough room in the Diamnond Select Handheld case to accomodate a connector, so if you want to use the Adafruit SGP30 with the STEMMA QT connector, you need to 3D print a slightly bigger case.
 
 Since all the new Adafruit SGP30s have two STEMMA QT ports, a small handheld just becomes impractical. After several months of searching, I ended up replacing mine with an $8 SGP30 from eBay. Honestly, I didn't think it would work, but it actually works beautifully and with no changes to the code. This is the link for the eBay version, but you can do further serches for a better/cheaper/whatever seller. https://www.ebay.com/itm/125180741014
 
